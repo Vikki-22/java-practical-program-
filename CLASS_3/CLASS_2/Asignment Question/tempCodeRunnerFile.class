@@ -1,0 +1,7 @@
+
+      if (var1 > 1) {
+         System.out.println("\n2\n1");
+
+         for(int var6 = 2; var6 < var1; ++var6) {
+            int var5 = var4;
+            var4 += var3;
