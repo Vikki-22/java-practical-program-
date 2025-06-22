@@ -1,0 +1,20 @@
+import java.util.*;
+
+public class arithmatic {
+    public static void main(String args [])
+    {
+    System.out.println("enter the value of a and b");
+    Scanner sc=new Scanner(System.in);
+    int a=sc.nextInt();
+    int b=sc.nextInt();
+    System.out.println("Arithmatic operator example:-");
+    System.out.println(a+b);
+    System.out.println(a-b);
+    System.out.println(a*b);
+    System.out.println(a/b);
+    System.out.println(a%b);
+
+    }
+
+    
+}
